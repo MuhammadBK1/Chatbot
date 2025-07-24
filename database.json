@@ -1,0 +1,33 @@
+{
+    "Linear Regression": {
+        "description": "Linear Regression is a supervised learning algorithm used for predicting a continuous dependent variable based on one or more independent variables. It assumes a linear relationship between the input variables and the output."
+    },
+    "Logistic Regression": {
+        "description": "Logistic Regression is used for binary classification problems. It predicts the probability that a given input belongs to a certain class using the logistic (sigmoid) function."
+    },
+    "K-Means Clustering": {
+        "description": "K-Means is an unsupervised machine learning algorithm used to group data into K clusters by minimizing the variance within each cluster."
+    },
+    "Principal Component Analysis": {
+        "description": "PCA reduces the number of variables in a dataset while preserving variance by transforming variables into principal components."
+    },
+    "Random Forest": {
+        "description": "Random Forest is an ensemble learning method that builds multiple decision trees and outputs the mode or mean of the predictions for classification or regression."
+    },
+    "Confusion Matrix": {
+        "description": "A confusion matrix evaluates the performance of a classification algorithm by showing true positives, false positives, true negatives, and false negatives."
+    },
+    "Overfitting and Underfitting": {
+        "description": "Overfitting means a model learns noise instead of the pattern, while underfitting means it’s too simple to capture the pattern in the data."
+    },
+    "Feature Engineering": {
+        "description": "Feature engineering is the process of selecting or creating new features from raw data to improve model performance."
+    },
+    "Hyperparameter Tuning": {
+        "description": "Hyperparameter tuning involves adjusting the parameters of a machine learning model to optimize its performance on a validation set."
+    },
+    "Cross-Validation": {
+        "description": "Cross-validation is a technique for assessing how the results of a statistical analysis will generalize to an independent dataset. It is used to estimate the skill of a model on unseen data."
+    }
+
+}
