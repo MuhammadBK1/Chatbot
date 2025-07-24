@@ -6,7 +6,7 @@ import google.generativeai as genai
 
 # Load environment variables
 load_dotenv()
-genai.configure(api_key="AIzaSyDt9BCe67ebvROS8uoQh8PaEgjsQVLQ6_M")
+genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 
 # Load knowledge base from JSON file
 with open("database.json") as f:
